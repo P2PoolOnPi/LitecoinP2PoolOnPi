@@ -1,0 +1,2 @@
+# LitecoinP2PoolOnPi
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5a34d1b66c674b259b03700b5302fbdc)](https://www.codacy.com/app/PartTimeLegend/LitecoinP2PoolOnPi?utm_source=github.com&utm_medium=referral&utm_content=P2PoolOnPi/LitecoinP2PoolOnPi&utm_campaign=badger)
